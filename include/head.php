@@ -1,0 +1,11 @@
+<link rel="shortcut icon" href="assets/img/logo/favicon.png" />
+<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/animate.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/fontawesome.min.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/flaticon.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/slick.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/default.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/megamenu.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
